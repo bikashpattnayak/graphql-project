@@ -1,2 +1,2 @@
-# graphql-project test1
+# graphql-project test
 My Test Project Test
